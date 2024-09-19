@@ -28,7 +28,7 @@ function Stamps() {
   useEffect(() => {
     const interval = setInterval(() => {
       setCurrentIndex((prevIndex) => (prevIndex + 1) % stampData.length);
-    }, 3000); // Change stamp every 3 seconds
+    }, 2000); 
     return () => clearInterval(interval);
   }, [stampData.length]);
 

@@ -12,10 +12,12 @@ import {
 
 import HomePage from './pages/HomePage/HomePage.jsx'
 import Identifier from './components/Identifier/Identifier.jsx';
+import Generate from './components/Generate/generate.jsx';
 const router = createBrowserRouter(
   createRoutesFromElements (
     <Route path='/' element={<App />}>
       <Route path="" element={<HomePage />} />
+      <Route path="generate-your-own stamp" element={ <Generate/>} />
       <Route path="stamp-identifier" element={<Identifier />} />
     </Route>
   ) 

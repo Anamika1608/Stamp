@@ -58,11 +58,14 @@ function Features() {
                         <div className="text-center text-[#6C3131] mb-4 ibm-plex-mono-medium">
                             Create stamps of your own choice by giving AI prompt
                         </div>
+                        <Link to='/generate-your-own stamp'>
                         <div className='text-center'>
                             <button className="mt-4 px-5 py-2 text-lg sm:text-xl md:text-2xl bg-[#6C3131] text-white rounded-2xl hover:bg-[#805050] transition duration-300">
                                 Generate
                             </button>
                         </div>
+                        </Link>
+                        
                     </div>
                     
                 </div>
