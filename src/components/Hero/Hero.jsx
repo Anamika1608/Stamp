@@ -23,7 +23,7 @@ function Hero() {
 
 
   return (
-    <div className="bg-[#F5F4E8] p-4 pb-32">
+    <div className="bg-[#F5F4E8] p-14 pb-32">
       <main className="flex">
         <div className="w-2/3 pr-8 pl-24">
           <div className="text-6xl font-serif text-[#4C1F1F] mb-4 young-serif-regular">
