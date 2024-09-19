@@ -1,48 +1,66 @@
-import { div } from 'framer-motion/client';
-import React from 'react'
+import Masonry from 'react-masonry-css';
 
 function Trending() {
     const stampData = [
         {
-            img: '/bapu_stamp.jpg',
-            names: 'Bapu Stamp',
-            time: '15 AUG 1948',
-            theme: 'Personality'
+            img: '/t1.png',
+            names: 'Azadi Ka Amrit Mahotsav',
+            time: '11-02-2023',
+            denomination: '5.00 INR',
         },
         {
-            img: '/games_stamp.jpg',
-            names: 'Game Stamp',
-            time: '04 March 1951',
-            theme: 'Event'
+            img: '/t4.jpg',
+            names: '75th Year of Indian Army Day',
+            time: '19-04-2023',
+            denomination: '5.00 INR',
         },
         {
-            img: '/tajmahal_stamp.jpg',
-            names: 'Taj Mahal, Agra',
-            time: '16 Dec 2004',
-            theme: 'Monument'
-        }
+            img: '/t3.jpg',
+            names: 'Shree Ram Janmabhoomi Temple',
+            time: '18-01-2024',
+            denomination: '5.00 INR',
+        },
+        {
+            img: '/t2.jpg',
+            names: '50th Anniversary of ICRISAT',
+            time: '05-02-2022',
+            denomination: '5.00 INR',
+        },
+        {
+            img: '/t5.jpg',
+            names: 'Democratic Ideals of Sikhism (Collection: Bharat- The Mother of Democracy)',
+            time: '25-01-2024',
+            denomination: '5.00 INR',
+        },
     ];
-    return (
-        <div className='bg-[#F5F4E8]'>
-            <div className='text-center young-serif-regular text-3xl'>Trending Stamps</div>
-            <div className='flex justify-center items-center py-10'>
-                {
-                    stampData.map((stamp) => (
+    const breakpointColumnsObj = {
+        default: 3,
+        1100: 2,
+        700: 1
+    };
 
-                        <div className='p-10'>
-                            <img src={stamp.img} alt="stamp" className='w-60 h-60 object-cover rounded-xl'/>
-                            <div className=' text-center pt-10 ibm-plex-mono-medium'>
-                            <div>{stamp.names}</div>
-                            <div>{stamp.title}</div>
-                            <div>{stamp.theme}</div>
-                            </div>
-                           
+    return (
+        <div className='bg-[#F5F4E8] pt-20'>
+            <div className='text-4xl pl-10 font-medium'>Trending Stamps</div>
+            <Masonry
+                breakpointCols={breakpointColumnsObj}
+                className="my-masonry-grid flex"
+                columnClassName="my-masonry-grid_column"
+            >
+                {stampData.map((stamp, index) => (
+                    <div className='p-10 stamp-card' key={index}>
+                        <img src={stamp.img} alt="stamp" className='w-full h-full object-cover rounded-2xl' />
+                        <div className='text-center pt-10 ibm-plex-mono-medium text-lg leading-relaxed'>
+                            <div className='font-bold text-xl'>Name - {stamp.names}</div>
+                            <div className='text-gray-600'>Release Date - {stamp.time}</div>
+                            <div className='text-gray-600'>Denomination - {stamp.denomination}</div>
                         </div>
 
-                    ))}
-            </div>
+                    </div>
+                ))}
+            </Masonry>
         </div>
-    )
+    );
 }
 
-export default Trending
+export default Trending;
