@@ -11,10 +11,12 @@ import {
 } from "react-router-dom";
 
 import HomePage from './pages/HomePage/HomePage.jsx'
+import Identifier from './components/Identifier/Identifier.jsx';
 const router = createBrowserRouter(
   createRoutesFromElements (
     <Route path='/' element={<App />}>
       <Route path="" element={<HomePage />} />
+      <Route path="stamp-identifier" element={<Identifier />} />
     </Route>
   ) 
 )
