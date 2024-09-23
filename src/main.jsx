@@ -12,7 +12,7 @@ import {
 
 import HomePage from './pages/HomePage/HomePage.jsx'
 import Identifier from './components/Identifier/Identifier.jsx'
-import Generate from './components/Generate/generate.jsx'
+import Generate from './components/Generate/Generate.jsx'
 import Model from './components/Model/Model.jsx'
 import Bharat_1 from './AR/Bharat_1.jsx'
 import Bharat_2 from './AR/Bharat_2.jsx'
