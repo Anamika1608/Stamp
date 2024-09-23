@@ -54,7 +54,7 @@ function Generate() {
                         value={prompt}
                         name="prompt"
                         onChange={(e) => setPrompt(e.target.value)}
-                        placeholder="Describe your Image..."
+                        placeholder="Describe your Stamp with brief description and denomination.."
                         className="w-full p-4 text-gray-700 border rounded-md mb-4 h-28 focus:outline-none focus:ring-2 focus:ring-black"
                     />
 

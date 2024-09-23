@@ -41,11 +41,14 @@ function Features() {
                         <div className="text-center text-[#6C3131] mb-4 ibm-plex-mono-medium">
                             Rotate and zoom-in from different angles for clearer picture
                         </div>
+                        <Link to='/3D-models'>
                         <div className='text-center'>
                             <button className="mt-4 px-5 py-2 text-lg sm:text-xl md:text-2xl bg-[#6C3131] text-white rounded-2xl hover:bg-[#805050] transition duration-300">
                                 View
                             </button>
                         </div>
+                        </Link>
+                        
                     </div>
 
                     <div className="bg-white rounded-2xl border-2 border-[#605151] p-8 sm:p-10 shadow-lg max-w-sm w-full md:w-80">
