@@ -70,7 +70,25 @@ function Features() {
                         </Link>
                         
                     </div>
-                    
+                    <div className="bg-[#D5C2A5] bg-opacity-75 rounded-2xl border-2 border-[#605151] p-8 sm:p-10 shadow-lg max-w-sm w-full md:w-80">
+                        <div className="flex justify-center mb-6">
+                            <img src="/3D.svg" alt="scan" className="w-36 h-36 object-cover" />
+                        </div>
+                        <div className="text-xl sm:text-3xl font-medium text-center text-[#494232] mb-4">
+                            Stamp Exhibition
+                        </div>
+                        <div className="text-center text-[#6C3131] mb-4 ibm-plex-mono-medium">
+                        Immerse yourself in a interactive stamp exhibition experience
+                        </div>
+                        <Link to='https://play.unity.com/en/games/bbae7b1c-8791-42e1-b416-e0e4d6ffb202/webgl-publish'>
+                        <div className='text-center'>
+                            <button className="mt-4 px-5 py-2 text-lg sm:text-xl md:text-2xl bg-[#6C3131] text-white rounded-2xl hover:bg-[#805050] transition duration-300">
+                                Explore
+                            </button>
+                        </div>
+                        </Link>
+                        
+                    </div>
                 </div>
             </div>
         </div>
