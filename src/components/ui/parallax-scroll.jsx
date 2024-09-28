@@ -41,7 +41,7 @@ const ParallaxScroll = ({
                 <Link to={el.link}>
                 <img
                 src={el.src}
-               className=" w-full object-cover object-left-top rounded-lg gap-10 !m-0 !p-0 transition-transform transform hover:scale-[1.03] hover:shadow-md duration-300 ease-in-out"
+               className=" w-full object-cover object-left-top rounded-lg gap-10 !m-0 !p-0 transition-transform transform hover:scale-[1.02] hover:shadow-md duration-300 ease-in-out"
                 height="400"
                 width="400"
                 alt="thumbnail" />
@@ -56,7 +56,7 @@ const ParallaxScroll = ({
               <Link to={el.link}>
               <img
                 src={el.src}
-               className=" w-full object-cover object-left-top rounded-lg gap-10 !m-0 !p-0 transition-transform transform  hover:scale-[1.03] hover:shadow-md duration-300 ease-in-out"
+               className=" w-full object-cover object-left-top rounded-lg gap-10 !m-0 !p-0 transition-transform transform  hover:scale-[1.02] hover:shadow-md duration-300 ease-in-out"
                 height="400"
                 width="400"
                 alt="thumbnail" />
@@ -72,7 +72,7 @@ const ParallaxScroll = ({
               <img
                 
                 src={el.src}
-                className=" w-full object-cover object-left-top rounded-lg gap-10 !m-0 !p-0 transition-transform transform  hover:scale-[1.03] hover:shadow-md duration-300 ease-in-out"
+                className=" w-full object-cover object-left-top rounded-lg gap-10 !m-0 !p-0 transition-transform transform  hover:scale-[1.02] hover:shadow-md duration-300 ease-in-out"
                 height="400"
                 width="400"
                 alt="thumbnail" />

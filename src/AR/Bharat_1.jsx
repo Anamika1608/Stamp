@@ -18,7 +18,7 @@ const Scene = () => {
       </Suspense>
     </Canvas>
   );
-};
+}; 
 
 const SceneWithTitle = () => {
   return (

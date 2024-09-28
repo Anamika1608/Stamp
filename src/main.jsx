@@ -10,6 +10,7 @@ import {
 
 } from "react-router-dom"
 
+import Stamps from './components/Stamps/Stamps.jsx'
 import HomePage from './pages/HomePage/HomePage.jsx'
 import Identifier from './components/Identifier/Identifier.jsx'
 import Generate from './components/Generate/Generate.jsx'
@@ -62,6 +63,8 @@ const router = createBrowserRouter(
       <Route path="/olympics-2" element={<Olympics_2 />} />
       <Route path="/olympics-3" element={<Olympics_3 />} />
       <Route path="/olympics-4" element={<Olympics_4 />} />
+      <Route path="/buy-stamps" element={<Stamps />} />
+
       
     </Route>
   ) 
