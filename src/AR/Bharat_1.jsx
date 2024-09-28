@@ -24,7 +24,7 @@ const SceneWithTitle = () => {
   return (
     <div className="w-full h-screen flex flex-col">
       <h1 className="text-3xl font-bold text-center p-4">
-      Interactive 3D Aloevera Model
+      Interactive 3D Stamp
       </h1>
       <div className="flex-grow">
         <Scene />
