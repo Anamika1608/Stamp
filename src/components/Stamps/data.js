@@ -38,7 +38,7 @@ const data = [
         "Denomination": 5,
         "Quantity": 143334,
         "Printer": "Security Printing Press, Hyderabad",
-        "ImageOfCPS": "yubnlznd6z4peya9tsrq",
+        "ImageOfCPS": "flfnr4iaa3ddyuzeofub",
         "Image of FDC": "https://postagestamps.gov.in/Uploads/2024/FDC%20Mother%20of%20Democracy.jpg",
         "Brochure": "https://postagestamps.gov.in/Pdf/2024/Brochure%20-Mother%20of%20Democracy.pdf",
         "Description": "This stamp celebrates India's democratic heritage."
@@ -60,7 +60,7 @@ const data = [
         'Denomination': 5,
         'Quantity': 301850,
         'Printer': 'Security Printing Press, Hyderabad',
-        'ImageOfCPS': 'nbfoerz9c4h94bfvruy9',
+        'ImageOfCPS': 'xu7be11mdejlyuynlpwg',
         'Image of FDC': 'https://postagestamps.gov.in/Uploads/2023/225_Glorious_%20Years_FDC.jpg',
         'Brochure': 'https://postagestamps.gov.in/Pdf/2023/225_Glorious_%20Years_BROCHURE.pdf',
         'Description': 'This brochure celebrates the 225th anniversary of the Indian Postal Service, showcasing its evolution and its vital role in connecting people and facilitating communication across the country. '
@@ -71,7 +71,7 @@ const data = [
         'Denomination': 5,
         'Quantity': 202000,
         'Printer': 'Security Printing Press, Hyderabad',
-        'ImageOfCPS': 'l4stymw1yssshg0mghjv',
+        'ImageOfCPS': 'ezn2tbuecg2oj6twpqgd',
         'Image of FDC': 'https://postagestamps.gov.in/Uploads/2023/1CBPO-FDC.jpg',
         'Brochure': 'https://postagestamps.gov.in/Pdf/2023/1CBPO-Brouchure.pdf',
         'Description': 'This brochure highlights the 1st Central Bureau of Post Offices (1CBPO) and its contribution to postal services in India, featuring a commemorative postage stamp marking the event.'
@@ -82,7 +82,7 @@ const data = [
         'Denomination': 25,
         'Quantity': 116000,
         'Printer': 'Security Printing Press, Hyderabad',
-        'ImageOfCPS': 'lmwxzuld04l1pdhmtlvh',
+        'ImageOfCPS': 'l4stymw1yssshg0mghjv',
         'Image of FDC': 'https://postagestamps.gov.in/Uploads/2023/75_Years_of_India_Luxembourg_Friendship_FDC.png',
         'Brochure': 'https://postagestamps.gov.in/Pdf/2023/75_Years_of_India_Luxembourg_Friendship_Brochure.pdf',
         'Description': 'The brochure commemorates the 75th anniversary of diplomatic relations between India and Luxembourg, highlighting the strong bond of friendship and cooperation between the two nations.'
@@ -115,7 +115,7 @@ const data = [
         'Denomination': 50,
         'Quantity': 110000,
         'Printer': 'Security Printing Press, Hyderabad',
-        'ImageOfCPS': 'veiuvb46we37ophmivjq',
+        'ImageOfCPS': 'nbfoerz9c4h94bfvruy9',
         'Image of FDC': 'https://postagestamps.gov.in/Uploads/2023/Legends_of_Odisha_FDC.jpg',
         'Brochure': 'https://postagestamps.gov.in/Pdf/2023/Legends_of_Odisha_BROCHURE.pdf',
         'Description': 'The brochure highlights the rich cultural heritage and legendary figures of Odisha, featuring a commemorative postage stamp showcasing the unique traditions and artistry of the state.'
@@ -126,7 +126,7 @@ const data = [
         'Denomination': 5,
         'Quantity': 301700,
         'Printer': 'Security Printing Press, Hyderabad',
-        'ImageOfCPS': 'makny5obcyukpah7pqyj',
+        'ImageOfCPS': 'cplokf5gmnawcsjfsd7v',
         'Image of FDC': 'https://postagestamps.gov.in/Uploads/2023/Diamond%20Jubilee%20of%20CBI%20FDC.jpg',
         'Brochure': 'https://postagestamps.gov.in/Pdf/2023/Diamond%20Jubilee%20of%20CBI%20Brochure.pdf',
         'Description': 'This brochure commemorates the 60th anniversary (Diamond Jubilee) of the Central Bureau of Investigation (CBI), acknowledging its role in upholding law and order and combating corruption in India.'
@@ -170,7 +170,7 @@ const data = [
         'Denomination': 5,
         'Quantity': 302400,
         'Printer': 'Security Printing Press, Hyderabad',
-        'ImageOfCPS': 'cwipp3oxgrunuzv0atle',
+        'ImageOfCPS': 'makny5obcyukpah7pqyj',
         'Image of FDC': 'https://postagestamps.gov.in/Uploads/2023/Mann_Ki_Baat_fdc_final_18_04.jpg',
         'Brochure': 'https://postagestamps.gov.in/Pdf/2023/Mann_Ki_Baat_Brochure.pdf',
         'Description': 'This brochure commemorates the "Mann Ki Baat" program, a monthly radio address by the Prime Minister of India, which aims to connect with the people and address various issues of national importance. '
@@ -225,7 +225,7 @@ const data = [
         'Denomination': 5,
         'Quantity': 301900,
         'Printer': 'Security Printing Press, Hyderabad',
-        'ImageOfCPS': 'wlrkz9ysekmp8zjyd0n8',
+        'ImageOfCPS': 'mzvrl1y1liz1cws0ki1b',
         'Image of FDC': 'https://postagestamps.gov.in/Uploads/2023/Gandhe_FDC.jpg',
         'Brochure': 'https://postagestamps.gov.in/Pdf/2023/Gandhe_BROCHURE.pdf',
         'Description': 'The brochure celebrates the legacy of Mahatma Gandhi, a prominent leader of the Indian independence movement, known for his philosophy of non-violence and Satyagraha.'
@@ -258,7 +258,7 @@ const data = [
         'Denomination': 5,
         'Quantity': 377100,
         'Printer': 'Security Printing Press, Hyderabad',
-        'ImageOfCPS': 'ezn2tbuecg2oj6twpqgd',
+        'ImageOfCPS': 'veiuvb46we37ophmivjq',
         'Image of FDC': 'https://postagestamps.gov.in/Uploads/2023/Dada_JP_Vaswani_FDC.jpg',
         'Brochure': 'https://postagestamps.gov.in/Pdf/2023/Dada_JP_Vaswani_BROCHURE.pdf',
         'Description': 'The brochure honors Dada J.P. Vaswani, a renowned spiritual leader and humanitarian known for his teachings on peace, compassion, and service to humanity.'
@@ -269,7 +269,7 @@ const data = [
         'Denomination': 5,
         'Quantity': 201600,
         'Printer': 'Security Printing Press, Hyderabad',
-        'ImageOfCPS': 'sgpyljkhmjfbcybf7g5v',
+        'ImageOfCPS': 'cwipp3oxgrunuzv0atle',
         'Image of FDC': 'https://postagestamps.gov.in/Uploads/2023/500th_Birthday_Rani_Durgavati_FDC.jpg',
         'Brochure': 'https://postagestamps.gov.in/Pdf/2023/500th_Birthday_Rani_Durgavati_BROCHURE.pdf',
         'Description': 'The brochure celebrates the 500th birth anniversary of Rani Durgavati, a valiant queen known for her courage and resistance against Mughal rule.'
@@ -280,7 +280,7 @@ const data = [
         'Denomination': 5,
         'Quantity': 201600,
         'Printer': 'Security Printing Press, Hyderabad',
-        'ImageOfCPS': 'xu7be11mdejlyuynlpwg',
+        'ImageOfCPS': 'wlrkz9ysekmp8zjyd0n8',
         'Image of FDC': 'https://postagestamps.gov.in/Uploads/2023/Hemachandra_Vikramaditya_FDC.jpg',
         'Brochure': 'https://postagestamps.gov.in/Pdf/2023/Hemachandra_Vikramaditya_Brochure.pdf',
         'Description': 'The brochure commemorates Hemachandra Vikramaditya, a renowned scholar, poet, and Jain monk known for his contributions to literature, philosophy, and grammar.'
@@ -296,28 +296,6 @@ const data = [
         'Brochure': 'https://postagestamps.gov.in/Pdf/2023/50%20years%20of%20establishment%20of%20Diplomatic%20Relations%20between%20India%20and%20Vietnam%20Brochure.pdf',
         'Description': 'The brochure celebrates the 50th anniversary of diplomatic relations between India and Vietnam, highlighting the strong and enduring bond between the two nations'
     },
-    {
-        "NameOfStamp": "Inclusive Elections - Election Commission of India",
-        "DateOfRelease": "2024-01-25",
-        "Denomination": 5,
-        "Quantity": 301680,
-        "Printer": "Security Printing Press, Hyderabad",
-        "ImageOfCPS": "cplokf5gmnawcsjfsd7v",
-        "Image of FDC": "https://postagestamps.gov.in/Uploads/2024/FDC%20ECI.jpg",
-        "Brochure": "https://postagestamps.gov.in/Pdf/2024/Brochure%20-%20Bombay%20Sappers%20War%20Memorial%20FINAL.pdf",
-        "Description": "The stamp commemorates the Bombay Sappers War Memorial, which is completing 100 years of existence in 2024. The stamp pays tribute to the Bombay Engineer Group for their prowess in battle and contributions to national development."
-      },
-      {
-        "NameOfStamp": "Bharat – The Mother of Democracy",
-        "DateOfRelease": "2024-01-25",
-        "Denomination": 5,
-        "Quantity": 143334,
-        "Printer": "Security Printing Press, Hyderabad",
-        "ImageOfCPS": "adaxautcgpirc4syfmdo",
-        "Image of FDC": "https://postagestamps.gov.in/Uploads/2024/FDC%20Mother%20of%20Democracy.jpg",
-        "Brochure": "https://postagestamps.gov.in/Pdf/2024/Brochure%20-Mother%20of%20Democracy.pdf",
-        "Description": "This stamp issue celebrates India's democratic heritage and salutes the democratic spirit of the world's largest democracy."
-      },
       {
         "NameOfStamp": "The Bombay Sappers War Memorial",
         "DateOfRelease": "2024-01-31",
@@ -335,7 +313,7 @@ const data = [
         "Denomination": 5,
         "Quantity": 111000,
         "Printer": "Security Printing Press, Hyderabad",
-        "ImageOfCPS": "flfnr4iaa3ddyuzeofub",
+        "ImageOfCPS": "lmwxzuld04l1pdhmtlvh",
         "Image of FDC": "https://postagestamps.gov.in/Uploads/2024/Olympic%20FDC%2030-7-24%20Revised%20with%20stamp.jpg",
         "Brochure": "https://postagestamps.gov.in/Pdf/2024/Brochure-Olympics%20Paris%202024%20(4).pdf",
         "Description": "This brochure marks the upcoming 2024 Paris Olympics, showcasing the spirit of sportsmanship."
@@ -346,7 +324,7 @@ const data = [
         "Denomination": 10,
         "Quantity": 211000,
         "Printer": "Security Printing Press, Hyderabad",
-        "ImageOfCPS": "lro1rrxnibehqxzf3t5p",
+        "ImageOfCPS": "adaxautcgpirc4syfmdo",
         "Image of FDC": "https://postagestamps.gov.in/Uploads/2024/Supreme%20Court%20FDC.jpg",
         "Brochure": "https://postagestamps.gov.in/Pdf/2024/Brochure-Supreme%20Court%20of%20India%20(2).pdf",
         "Description": "Celebrating 75 years of the Supreme Court of India with a commemorative stamp."
