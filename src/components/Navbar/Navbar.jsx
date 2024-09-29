@@ -28,8 +28,8 @@ function Navbar() {
         
         <ul className={`md:flex md:items-center md:space-x-6 md:space-y-0 space-y-4 absolute md:static bg-[#7C2827] md:bg-transparent md:flex-row flex-col top-0 right-0 w-full md:w-auto md:h-auto pt-24 md:pt-0 transition-all duration-300 ease-in-out ${isOpen ? 'flex' : 'hidden'}`}>
           {navItems.map((item, index) => (
-            <li key={index} className="hover:underline cursor-pointer text-center py-2 md:py-0">
-              <Link to={item.href}>{item.name}</Link>
+            <li key={index} className="hover:underline cursor-pointer text-xl text-center py-2 md:py-0">
+              <Link to={item.href} className='mx-2'>{item.name}</Link>
             </li>
           ))}
         </ul>
