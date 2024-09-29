@@ -80,7 +80,7 @@ function Features() {
                         <div className="text-center text-[#6C3131] mb-4 ibm-plex-mono-medium">
                         Immerse yourself in a interactive stamp exhibition experience
                         </div>
-                        <Link to='/buy-stamps'>
+                        <Link to='https://play.unity.com/en/games/bbae7b1c-8791-42e1-b416-e0e4d6ffb202/webgl-publish'>
                         <div className='text-center'>
                             <button className="mt-4 px-5 py-2 text-lg sm:text-xl md:text-2xl bg-[#6C3131] text-white rounded-2xl hover:bg-[#805050] transition duration-300">
                                 Explore

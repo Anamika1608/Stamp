@@ -20,7 +20,7 @@ function Generate() {
                 {
                     responseType: 'arraybuffer',
                     headers: {
-                        Authorization: `Bearer sk-ubnw9HlXBKh1dyxgv7ZNxyd2jxPonCrJq7ORiQwtBsQ9Gger`, 
+                        Authorization: `Bearer sk-ubnw9HlXBKh1dyxgv7ZNxyd2jxPonCrJq7ORiQwtBsQ9Gger`,
                         Accept: 'image/*',
                     },
                 }
@@ -44,23 +44,23 @@ function Generate() {
     };
 
     return (
-        <div className="flex flex-col items-center justify-center p-20 bg-gray-100">
-            <div className="rounded-lg p-8 w-full max-w-4xl flex space-x-10">
+        <div className="flex flex-col items-center justify-center p-6 sm:p-10 bg-gray-100 min-h-screen">
+            <div className="rounded-lg p-6 w-full max-w-4xl flex flex-col lg:flex-row space-y-6 lg:space-y-0 lg:space-x-10">
             
-                <div className="w-1/2 bg-[#dbd7a4] p-10 rounded-2xl">
-                    <h2 className="text-2xl font-bold mb-4 ibm-plex-mono-medium ">Describe Your Stamp</h2>
+                <div className="w-full lg:w-1/2 bg-[#dbd7a4] p-6 sm:p-10 rounded-2xl">
+                    <h2 className="text-2xl font-bold mb-4 ibm-plex-mono-medium">Describe Your Stamp</h2>
 
                     <textarea
                         value={prompt}
                         name="prompt"
                         onChange={(e) => setPrompt(e.target.value)}
-                        placeholder="Describe your Stamp with brief description and denomination.."
+                        placeholder="Describe your Stamp with brief description and denomination..."
                         className="w-full p-4 text-gray-700 border rounded-md mb-4 h-28 focus:outline-none focus:ring-2 focus:ring-black"
                     />
 
                     <button
                         onClick={() => generateImage(prompt)}
-                        className="px-6 py-3 bg-[#806D3A] text-white font-semibold rounded-md hover:bg-[#7D6043] transition duration-300"
+                        className="px-6 py-3 bg-[#806D3A] text-white font-semibold rounded-md hover:bg-[#7D6043] transition duration-300 w-full lg:w-auto"
                         disabled={loading || !prompt.trim()}
                     >
                         {loading ? 'Creating...' : 'Create'}
@@ -79,7 +79,7 @@ function Generate() {
                     )}
                 </div>
 
-                <div className="w-1/2 flex items-center justify-center">
+                <div className="w-full lg:w-1/2 flex items-center justify-center">
                     {imageSrc ? (
                         <img src={imageSrc} alt="Generated" className="w-full max-w-md rounded-md shadow-md" />
                     ) : (
