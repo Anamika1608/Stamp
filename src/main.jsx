@@ -40,9 +40,9 @@ const router = createBrowserRouter(
   createRoutesFromElements (
     <Route path='/' element={<App />}>
       <Route path="" element={<HomePage />} />
-      <Route path="generate-your-own stamp" element={ <Generate/>} />
+      <Route path="create-stamp" element={ <Generate/>} />
       <Route path="stamp-identifier" element={<Identifier />} />
-      <Route path="3D-models" element={<Model />} />
+      <Route path="3D-stamps" element={<Model />} />
       <Route path="/bharat-1" element={<Bharat_1 />} />
       <Route path="/bharat-2" element={<Bharat_2 />} />
       <Route path="/bharat-3" element={<Bharat_3 />} />

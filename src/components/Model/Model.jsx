@@ -2,7 +2,13 @@
 import ParallaxScroll from "../ui/parallax-scroll";
 
 const ParallaxScrollSecondDemo = () => {
-  return <ParallaxScroll images={images} />;
+  return (
+    
+  <div>
+    <div className="text-center text-3xl mt-5   font-medium">Click on any stamp to view the 3d model</div>
+    <ParallaxScroll images={images} className='mb-44'/>
+  </div>
+);
 }
  
 const images = [

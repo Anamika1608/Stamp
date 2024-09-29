@@ -33,16 +33,17 @@ const SceneWithTitle = () => {
         <div className=" ibm-plex-mono-regular w-full sm:max-w-[40%] bg-[#f5f3da] p-6 mt-10 sm:mt-20 shadow-lg rounded-lg">
           <h2 className="text-2xl font-semibold mb-4">Stamp Information</h2>
           <p className="mb-2">
-            <strong>Name of Stamp :</strong> Bharat – The Mother of Democracy
+            <strong>Name of Stamp :</strong> Taj Mahal
           </p>
           <p className="mb-2">
-            <strong>Description :</strong> This stamp issue celebrates India's democratic heritage and salutes the democratic spirit of the world's largest democracy as India enters its 75th year as a republic.
+            <strong>Description :</strong> The Department of Posts is proud to issue a commemorative postage stamp on the Taj Mahal, the symbol of eternal love.
+
           </p>
           <p className="mb-2">
-            <strong>Date of Release :</strong> 1/25/2024
+            <strong>Date of Release :</strong> 12/16/2024
           </p>
           <p className="mb-2">
-            <strong>Quantity of Print :</strong> 143334
+            <strong>Quantity of Print :</strong> 4000000
           </p>
           <p className="mb-2">
             <strong>Denomination :</strong> ₹5.00
