@@ -49,7 +49,7 @@ const data = [
         'Denomination': 5,
         'Quantity': 301805,
         'Printer': 'Security Printing Press, Hyderabad',
-        'ImageOfCPS': 'fvabita8iddibeqrqfwq',
+        'ImageOfCPS': 'sgpyljkhmjfbcybf7g5v',
         'Image of FDC': 'https://postagestamps.gov.in/Uploads/2023/RAO_BIRENDER_SINGH_FDC.jpg',
         'Brochure': 'https://postagestamps.gov.in/Pdf/2023/RAO_BIRENDER_SINGH_BROCHURE.pdf',
         'Description': 'This brochure celebrates the life and achievements of Rao Birender Singh, known for his contributions to the development of sports in India.'
@@ -60,7 +60,7 @@ const data = [
         'Denomination': 5,
         'Quantity': 301850,
         'Printer': 'Security Printing Press, Hyderabad',
-        'ImageOfCPS': 'fiw6c0ctdp1tlwbajmun',
+        'ImageOfCPS': 'nbfoerz9c4h94bfvruy9',
         'Image of FDC': 'https://postagestamps.gov.in/Uploads/2023/225_Glorious_%20Years_FDC.jpg',
         'Brochure': 'https://postagestamps.gov.in/Pdf/2023/225_Glorious_%20Years_BROCHURE.pdf',
         'Description': 'This brochure celebrates the 225th anniversary of the Indian Postal Service, showcasing its evolution and its vital role in connecting people and facilitating communication across the country. '
@@ -93,7 +93,7 @@ const data = [
         'Denomination': 5,
         'Quantity': 303700,
         'Printer': 'Security Printing Press, Hyderabad',
-        'ImageOfCPS': 'wkq4qqmbuvskz2tr290f',
+        'ImageOfCPS': 'fiw6c0ctdp1tlwbajmun',
         'Image of FDC': 'https://postagestamps.gov.in/Uploads/2023/International_Year_of_Millets_FDC.jpg',
         'Brochure': 'https://postagestamps.gov.in/Pdf/2023/International_Year_of_Millets_BROCHURE.pdf',
         'Description': 'This brochure celebrates the International Year of Millets, highlighting the nutritional value and importance of millets in promoting food security and sustainable agriculture.'
@@ -104,7 +104,7 @@ const data = [
         'Denomination': 5,
         'Quantity': 201600,
         'Printer': 'Security Printing Press, Hyderabad',
-        'ImageOfCPS': 'zk7rkffz56bcck6tz5zu',
+        'ImageOfCPS': 'xst6udylgnit50knqttp',
         'Image of FDC': 'https://postagestamps.gov.in/Uploads/2023/Parshuram_FDC_Cancelled.jpg',
         'Brochure': 'https://postagestamps.gov.in/Pdf/2023/Parshuram_Brochure.pdf',
         'Description': 'This brochure commemorates Parshuram, a revered figure in Hindu mythology, known for his role in establishing social order and his association with the axe. It features a commemorative postage stamp honoring his significance.'
@@ -148,7 +148,7 @@ const data = [
         'Denomination': 5,
         'Quantity': 201600,
         'Printer': 'Security Printing Press, Hyderabad',
-        'ImageOfCPS': 'nhia5nfhy21v8euz6zks',
+        'ImageOfCPS': 'mknk6ci37zlq6gyfn13p',
         'Image of FDC': 'https://postagestamps.gov.in/Uploads/2023/Dayanand%20Saraswati%20FDC.jpg',
         'Brochure': 'https://postagestamps.gov.in/Pdf/2023/Dayanand%20Saraswati%20BROCHURE.pdf',
         'Description': 'The brochure commemorates Dayanand Saraswati, a prominent social reformer and religious leader, known for his contributions to Hindu revivalism and his emphasis on education and social justice.'
@@ -159,7 +159,7 @@ const data = [
         'Denomination': 5,
         'Quantity': 302005,
         'Printer': 'Security Printing Press, Hyderabad',
-        'ImageOfCPS': 'cayv3gwe8xmqj1szqufj',
+        'ImageOfCPS': 's8un9vbjfybh8fkcbklj',
         'Image of FDC': 'https://postagestamps.gov.in/Uploads/2023/75th_Year_of_Indian_Army_Day_Stamp_Cancelled_FDC.jpg',
         'Brochure': 'https://postagestamps.gov.in/Pdf/2023/75th_Year_of_Indian_Army_Day_Stamp_Brochure.pdf',
         'Description': "This brochure celebrates the 75th anniversary of Indian Army Day, acknowledging the bravery and sacrifice of the Indian Army in safeguarding the nation's security."
@@ -181,7 +181,7 @@ const data = [
         'Denomination': 5,
         'Quantity': 201600,
         'Printer': 'Security Printing Press, Hyderabad',
-        'ImageOfCPS': 's8un9vbjfybh8fkcbklj',
+        'ImageOfCPS': 'nhia5nfhy21v8euz6zks',
         'Image of FDC': 'https://postagestamps.gov.in/Uploads/2023/Raja_Ram_Mohan_Roy_FDC.jpg',
         'Brochure': 'https://postagestamps.gov.in/Pdf/2023/Raja_Ram_Mohan_Roy_Brochure.pdf',
         'Description': 'The brochure celebrates Raja Ram Mohan Roy, a prominent social reformer and intellectual who played a pivotal role in the Indian Renaissance, advocating for social reform, education, and religious freedom.'
@@ -192,7 +192,7 @@ const data = [
         'Denomination': 75,
         'Quantity': 209600,
         'Printer': 'Security Printing Press, Hyderabad',
-        'ImageOfCPS': 'mknk6ci37zlq6gyfn13p',
+        'ImageOfCPS': 'fvabita8iddibeqrqfwq',
         'Image of FDC': 'https://postagestamps.gov.in/Uploads/2023/Parliament_Complex_FDC.jpg',
         'Brochure': 'https://postagestamps.gov.in/Pdf/2023/Parliament_Complex_Brochure.pdf',
         'Description': 'The brochure highlights the Parliament Complex in New Delhi, a symbol of Indian democracy and the seat of legislative power, featuring a commemorative postage stamp showcasing this iconic structure.'
@@ -203,7 +203,7 @@ const data = [
         'Denomination': 5,
         'Quantity': 203100,
         'Printer': 'Security Printing Press, Hyderabad',
-        'ImageOfCPS': 'zu3hcv7v6wn9rf8n6ed0',
+        'ImageOfCPS': 'wkq4qqmbuvskz2tr290f',
         'Image of FDC': 'https://postagestamps.gov.in/Uploads/2023/SCO_FDC.jpg',
         'Brochure': 'https://postagestamps.gov.in/Pdf/2023/SCO_BROCHURE.pdf',
         'Description': 'The brochure celebrates the Shanghai Cooperation Organisation (SCO), a regional intergovernmental organization focusing on security and economic cooperation, featuring a commemorative postage stamp marking its significance.'
@@ -214,7 +214,7 @@ const data = [
         'Denomination': 5,
         'Quantity': 301800,
         'Printer': 'Security Printing Press, Hyderabad',
-        'ImageOfCPS': 'xqshi19tll8dlkoehium',
+        'ImageOfCPS': 'cayv3gwe8xmqj1szqufj',
         'Image of FDC': 'https://postagestamps.gov.in/Uploads/2023/UP-RajBhwaan_FDC.jpg',
         'Brochure': 'https://postagestamps.gov.in/Pdf/2023/UP-RajBhwaan_Brochure.pdf',
         'Description': "The brochure commemorates the Raj Bhavan (Governor's Residence) in Uttar Pradesh, a significant landmark representing the state's historical and administrative heritage."
@@ -236,7 +236,7 @@ const data = [
         'Denomination': 20,
         'Quantity': 211000,
         'Printer': 'Security Printing Press, Hyderabad',
-        'ImageOfCPS': 'csosadtwbioy5oprifpd',
+        'ImageOfCPS': 'xqshi19tll8dlkoehium',
         'Image of FDC': 'https://postagestamps.gov.in/Uploads/2023/G20_FDC.jpg',
         'Brochure': 'https://postagestamps.gov.in/Pdf/2023/G20_BROCHURE.pdf',
         'Description': "The brochure highlights the G20, a premier forum for international economic cooperation, and India's presidency of the G20 in 2023"
@@ -247,7 +247,7 @@ const data = [
         'Denomination': 5,
         'Quantity': 301800,
         'Printer': 'Security Printing Press, Hyderabad',
-        'ImageOfCPS': 'xst6udylgnit50knqttp',
+        'ImageOfCPS': 'yubnlznd6z4peya9tsrq',
         'Image of FDC': 'https://postagestamps.gov.in/Uploads/2023/High_Court_Orissa_2023_FDC.jpg',
         'Brochure': 'https://postagestamps.gov.in/Pdf/2023/High_Court_Orissa_2023_BROCHURE.pdf',
         'Description': 'The brochure celebrates the 75th anniversary of the Orissa High Court, recognizing its role in upholding justice and serving the people of Odisha'
@@ -291,7 +291,7 @@ const data = [
         'Denomination': '25.00 & 5.00',
         'Quantity': 112000,
         'Printer': 'Security Printing Press, Hyderabad',
-        'ImageOfCPS': 'mzvrl1y1liz1cws0ki1b',
+        'ImageOfCPS': 'zk7rkffz56bcck6tz5zu',
         'Image of FDC': 'https://postagestamps.gov.in/Uploads/2023/50%20years%20of%20establishment%20of%20Diplomatic%20Relations%20between%20India%20and%20Vietnam%20FDC.jpg',
         'Brochure': 'https://postagestamps.gov.in/Pdf/2023/50%20years%20of%20establishment%20of%20Diplomatic%20Relations%20between%20India%20and%20Vietnam%20Brochure.pdf',
         'Description': 'The brochure celebrates the 50th anniversary of diplomatic relations between India and Vietnam, highlighting the strong and enduring bond between the two nations'
@@ -324,7 +324,7 @@ const data = [
         "Denomination": 5,
         "Quantity": 302350,
         "Printer": "Security Printing Press, Hyderabad",
-        "ImageOfCPS": "nbfoerz9c4h94bfvruy9",
+        "ImageOfCPS": "zu3hcv7v6wn9rf8n6ed0",
         "Image of FDC": "https://postagestamps.gov.in/Uploads/2024/FDC%20Bombay%20Sappers.jpg",
         "Brochure": "https://postagestamps.gov.in/Pdf/2024/Brochure%20Bombay%20Sappers.pdf",
         "Description": "The stamp commemorates the Bombay Sappers War Memorial and their contributions."
