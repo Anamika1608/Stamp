@@ -5,13 +5,13 @@ function Stamps() {
   const stampData = [
     {
       img: '/bapu_stamp.jpg',
-      names: 'Bapu Stamp',
+      names: 'Mahatma Gandhi',
       time: '15 AUG 1948',
       theme: 'Personality'
     },
     {
       img: '/games_stamp.jpg',
-      names: 'Game Stamp',
+      names: 'Asian Games',
       time: '04 March 1951',
       theme: 'Event'
     },
@@ -70,15 +70,15 @@ function Stamps() {
               <motion.img
                 src={stamp.img}
                 alt={stamp.names}
-                className='w-60 h-60 object-cover' 
+                className='w-60 h-72 ' 
               />
               <motion.div
                 className='text-center ibm-plex-mono-medium mt-4'
                 animate={{ opacity: isCurrent ? 1 : 0 }}
               >
                 <div className=''>Name - {stamp.names}</div>
-                <div>Time Period - {stamp.time}</div>
-                <div>Main Theme - {stamp.theme}</div>
+                <div>Issued - {stamp.time}</div>
+                <div>Theme - {stamp.theme}</div>
               </motion.div>
             </div>
           </motion.div>

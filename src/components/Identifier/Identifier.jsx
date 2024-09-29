@@ -21,7 +21,7 @@ function Identifier() {
   return (
     <div className='bg-[#F5F4E8]'>
       <div className='text-4xl text-center young-serif-regular text-[4C1F1F] p-10'>
-        AI Based Image Identifier
+        AI Based Stamp Identifier
       </div>
 
       <div className="flex flex-col items-center justify-center p-6  border-brown-500 rounded-lg pb-44 pt-20">
