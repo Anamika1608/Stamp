@@ -35,6 +35,7 @@ import Olympics_1 from './AR/Olympics_1.jsx'
 import Olympics_2 from './AR/Olympics_2.jsx'
 import Olympics_3 from './AR/Olympics_3.jsx'
 import Olympics_4 from './AR/Olympics_4.jsx'
+import Forum from './components/Forum/Forum.jsx'
 
 const router = createBrowserRouter(
   createRoutesFromElements (
@@ -64,7 +65,8 @@ const router = createBrowserRouter(
       <Route path="/olympics-3" element={<Olympics_3 />} />
       <Route path="/olympics-4" element={<Olympics_4 />} />
       <Route path="/buy-stamps" element={<Stamps />} />
-
+      <Route path="/discussion-forum" element={<Forum />} />
+     
       
     </Route>
   ) 

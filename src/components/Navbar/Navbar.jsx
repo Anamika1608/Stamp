@@ -7,7 +7,7 @@ function Navbar() {
   const navItems = [
     { name: '3D stamps', href: '/3d-stamps' },
     { name: 'Buy Stamps', href: '/buy-stamps' },
-    { name: 'Discussion Forum', href: '/forum' },
+    { name: 'Discussion Forum', href: '/discussion-forum' },
     { name: 'Create!', href: '/create-stamp' }
   ];
 
