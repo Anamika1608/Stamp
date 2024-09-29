@@ -4,9 +4,9 @@ import ParallaxScroll from "../ui/parallax-scroll";
 const ParallaxScrollSecondDemo = () => {
   return (
     
-  <div>
-    <div className="text-center text-3xl mt-5   font-medium">Click on any stamp to view the 3d model</div>
-    <ParallaxScroll images={images} className='mb-44'/>
+  <div className="bg-[#F9F1EC]">
+    <div className="text-center text-3xl pt-5   font-medium">Click on any stamp to view the 3d model</div>
+    <ParallaxScroll images={images} className='pb-44'/>
   </div>
 );
 }
