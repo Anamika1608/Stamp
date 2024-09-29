@@ -8,7 +8,7 @@ function Navbar() {
     { name: '3D stamps', href: '/3d-stamps' },
     { name: 'Buy Stamps', href: '/buy-stamps' },
     { name: 'Discussion Forum', href: '/discussion-forum' },
-    { name: 'Create!', href: '/create-stamp' }
+    { name: 'Create', href: '/create-stamp' }
   ];
 
   const toggleMenu = () => {

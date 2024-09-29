@@ -20,7 +20,7 @@ function Generate() {
                 {
                     responseType: 'arraybuffer',
                     headers: {
-                        Authorization: `Bearer sk-ubnw9HlXBKh1dyxgv7ZNxyd2jxPonCrJq7ORiQwtBsQ9Gger`,
+                        Authorization: `Bearer sk-U2yggwNmtDfsAhdtLJKAuiZwtfEHj4h2Kg8G1Dr2nrKbvs4G`,
                         Accept: 'image/*',
                     },
                 }

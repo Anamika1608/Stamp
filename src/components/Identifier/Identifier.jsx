@@ -64,6 +64,10 @@ function Identifier() {
           <div className="mt-4 p-4 text-center bg-gray-100 border border-gray-300 rounded">
             <p className="text-lg text-green-600 font-bold">
               Stamp identified as: <span className="text-brown-500">" Shree Ram Janambhoomi Temple"</span>
+              <br />
+              Date of Release : <span className="text-brown-500">1/18/2024</span>
+              <br />
+              Quantity of Print : <span className="text-brown-500">1000000</span>
             </p>
           </div>
         )}
